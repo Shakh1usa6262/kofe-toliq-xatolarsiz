@@ -1,0 +1,2 @@
+# kofe-toliq-xatolarsiz
+boshlangich
